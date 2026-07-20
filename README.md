@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Salem Ayegba 👋
 
-<!--
-**ayegbasalem/ayegbasalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on:
 
-Here are some ideas to get you started:
+- Landing Pages
+- Custom Business Websites
+- API Development
+- Automation Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Building high-converting websites
+- Learning Java
+- Creating business automation solutions
+
+## Contact
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon 
